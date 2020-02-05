@@ -5,5 +5,6 @@ public class Main {
         System.out.println("change 1");
         System.out.println("conflicting change");
         System.out.println("conflicting change from master");
+        System.out.println("more changes");
     }
 }
